@@ -38,7 +38,7 @@ your code passes the tests.
 ### NavBar
 
 In the `NavBar` component, there is an array with three strings representing
-each link on the page. For each of those strings, create an `<a>` tag that looks
+each link on the page. Foear each of those strings, create an `<a>` tag that looks
 like this:
 
 ```jsx
